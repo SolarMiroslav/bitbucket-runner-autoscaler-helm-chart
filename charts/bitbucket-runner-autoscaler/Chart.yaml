@@ -4,7 +4,7 @@ description: Chart for deploying Bitbucket Runner Autoscaler.
 
 type: application
 
-version: 0.3.0
+version: 0.3.1
 appVersion: 3.9.0
 
 maintainers:
