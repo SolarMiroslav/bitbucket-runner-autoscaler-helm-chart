@@ -13,7 +13,7 @@ controller:
     registry: docker.io
     repository: bitbucketpipelines/runners-autoscaler
     tag: "3.9.0"
-    pullPolicy: IfNotPresent
+    pullPolicy: IfNotPresent #Test
   tolerations: []
   nodeSelector: {}
   topologySpreadConstraints: []
